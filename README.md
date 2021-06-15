@@ -26,8 +26,35 @@ Objetivos Especificos
 
 **3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
 
-![]( )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-01.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-02.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-03.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-04.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-05.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-06.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-07.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-08.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-09.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-10.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-11.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-12.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-13.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap5-14.png )
 
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-01.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-02.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-03.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-04.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-05.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-06.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-07.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-08.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-09.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-10.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-11.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-12.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-13.png )
+![](https://github.com/JardelMacas/Tarea3/blob/main/Ejercicios/EjerCap6-14.png )
 
 **4.VIDEO**
 
